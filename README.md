@@ -4,8 +4,10 @@ Cardinal is a toolkit made for doing various tests on various types of servers. 
 <p align="center">
   <img src="image.png">
 </p>
-## Usage
+# Usage
 ONLY COMPATIBLE WITH WINDOWS!(for now)
+
+* Place the Script folder somewhere with all the libs and wireshark installed and it will work right away :)
 
 YOU WILL HAVE TO INSTALL WIRESHARK FOR THE SCRIPT TO WORK PROPERLY! Note that if you are installing the libs via command.
 ```
