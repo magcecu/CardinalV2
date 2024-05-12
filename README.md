@@ -4,6 +4,7 @@ Cardinal is a toolkit made for doing various tests on various types of servers. 
 <p align="center">
   <img src="image.png">
 </p>
+
 # Usage
 ONLY COMPATIBLE WITH WINDOWS!(for now)
 
