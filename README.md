@@ -35,7 +35,7 @@ I have added a setup.bat file if you are lazy and want it done with one click :)
 
 # Constributors
 MagCecu
-discord: magcecu
-telergam: https://t.me/OneandOnlyMag
+* discord: magcecu
+* telergam: https://t.me/OneandOnlyMag
 # External links
 * https://discord.gg/P8sKTTndqk
