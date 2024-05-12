@@ -1,0 +1,13 @@
+dnspython
+colorama
+pystyle
+requests
+speedtest-cli
+paramiko
+geopy
+PyMySQL
+psycopg2
+pymongo
+folium
+ipwhois
+scapy
